@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header li {
+    display: inline;
+}
+.container {
+    width: 1366px;
+    margin: 0 auto;
+    
+}
+
+body > header {
+    background-color: #2f3640;
+    color: lightcyan;
+    padding: 16px 0;
+}
